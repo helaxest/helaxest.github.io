@@ -128,14 +128,14 @@
   </url>
   
   <url>
-    <loc>https://helaxest.github.io/List/tools/index.html</loc>
+    <loc>https://helaxest.github.io/List/music/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
   </url>
   
   <url>
-    <loc>https://helaxest.github.io/List/music/index.html</loc>
+    <loc>https://helaxest.github.io/List/tools/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
@@ -298,6 +298,13 @@
   </url>
   
   <url>
+    <loc>https://helaxest.github.io/tags/Github/</loc>
+    <lastmod>2021-06-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://helaxest.github.io/tags/hexo-blog-lucky/</loc>
     <lastmod>2021-06-12</lastmod>
     <changefreq>daily</changefreq>
@@ -306,13 +313,6 @@
   
   <url>
     <loc>https://helaxest.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-06-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://helaxest.github.io/tags/Github/</loc>
     <lastmod>2021-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
